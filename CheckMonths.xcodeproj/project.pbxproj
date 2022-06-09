@@ -11,6 +11,7 @@
 		D233995527C2469E00EA7E5C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D233995427C2469E00EA7E5C /* ContentView.swift */; };
 		D233995727C2469F00EA7E5C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D233995627C2469F00EA7E5C /* Assets.xcassets */; };
 		D233995A27C2469F00EA7E5C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D233995927C2469F00EA7E5C /* Preview Assets.xcassets */; };
+		D233996227C2479100EA7E5C /* CheckMonthsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D233996127C2479100EA7E5C /* CheckMonthsViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		D233995627C2469F00EA7E5C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D233995927C2469F00EA7E5C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D233995B27C2469F00EA7E5C /* CheckMonths.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CheckMonths.entitlements; sourceTree = "<group>"; };
+		D233996127C2479100EA7E5C /* CheckMonthsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckMonthsViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				D233995627C2469F00EA7E5C /* Assets.xcassets */,
 				D233995B27C2469F00EA7E5C /* CheckMonths.entitlements */,
 				D233995827C2469F00EA7E5C /* Preview Content */,
+				D233996127C2479100EA7E5C /* CheckMonthsViewModel.swift */,
 			);
 			path = CheckMonths;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			files = (
 				D233995527C2469E00EA7E5C /* ContentView.swift in Sources */,
 				D233995327C2469E00EA7E5C /* CheckMonthsApp.swift in Sources */,
+				D233996227C2479100EA7E5C /* CheckMonthsViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
